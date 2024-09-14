@@ -31,7 +31,7 @@ print(1.23)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task1.png)
+![Меню](images/lab2-task1.png)
 
 ### Выводы
 
