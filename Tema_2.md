@@ -31,7 +31,7 @@ print(1.23)
 ```
 ### Результат.
 
-![Меню]()
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task1.png)
 
 ### Выводы
 
@@ -52,6 +52,8 @@ print(5.5 - 2.5)
 print(3 + 2.5 + 5 + 5.5)
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task2.png)
 
 ### Выводы
 
@@ -74,6 +76,8 @@ print(one + two)
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task3.png)
+
 ### Выводы
 
 1. `print('Hello, world!')` выводим строку
@@ -95,11 +99,12 @@ print(str(c))
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task4.png)
+
+### Выводы
 1. `print(bool(a))` выводим целочисленную переменную переведя ее в булевый тип
 2. `print(float(b))` выводим на экран целое число, конвертирую его во float
 3. `print(str(c))` выводим строку, которая изначально была булевым типом
-
-### Выводы
 
 ## Лабораторная работа №5
 ### Присвойте трем переменным различные значения, воспользовавшись функцией input()
@@ -112,6 +117,8 @@ c = input("three: ")
 print(a, b, c)
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task5.png)
 
 ### Выводы
 
@@ -130,6 +137,8 @@ print(a % b)
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task6.png)
+
 ### Выводы
 
 1. `print(a**b)` возведение в степень 
@@ -146,6 +155,8 @@ print(s * 6)
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task7.png)
+
 ### Выводы
 
 `print(s * 6)` выводим строку 6 раз
@@ -159,6 +170,8 @@ print(s.count("o"))
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task8.png)
+
 ### Выводы
 
 при помощи функции `count` можем получить частоту встречаемости символа в строке
@@ -170,6 +183,8 @@ print(s.count("o"))
 print("Hello\nworld")
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task9.png)
 
 ### Выводы
 
@@ -185,6 +200,8 @@ print(s[:5])
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task10.png)
+
 ### Выводы
 
 1. `print(s[1])` выводим 2 символ (нумерация с 0)
@@ -199,6 +216,8 @@ print(bool(n))
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task1.png)
+
 ### Выводы
 
 `print(bool(n))` конвертируем int в bool, 0 при переводе в bool даёт False
@@ -211,6 +230,8 @@ a, b, c = 4, 5, 6
 print(a, b, c)
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task2.png)
 
 ### Выводы
 
@@ -225,6 +246,8 @@ print(i)
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task3.png)
+
 ### Выводы
 
 при помощи `int` ограничиваем область допустим значений для ввода
@@ -237,6 +260,8 @@ s = "a"
 print(s * 16)
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task4.png)
 
 ### Выводы
 
@@ -253,6 +278,8 @@ print(f"Сегодня {day} {month} {year} ", end="Всего хорошего!
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task5.png)
+
 ### Выводы
 
 `print(f"Сегодня {day} {month} {year} ", end="Всего хорошего!")` решаем при помощи f
@@ -266,6 +293,8 @@ print(s[:5] + " my " + s[-5:])
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task6.png)
+
 ### Выводы
 
 `print(s[:5] + " my " + s[-5:])` чтобы получить hello выводим первые 5 символов, конкатанируем my, а затем последние 5 символов
@@ -277,6 +306,8 @@ print(s[:5] + " my " + s[-5:])
 print(len("Hello world"))
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task7.png)
 
 ### Выводы
 
@@ -290,6 +321,8 @@ print("HELLO WORLD".lower())
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task8.png)
+
 ### Выводы
 
 `lower` переводит строку в нижний регистр
@@ -302,6 +335,8 @@ print(int(100**0.5))
 ```
 ### Результат.
 
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task9.png)
+
 ### Выводы
 
 чтобы найти квадратный корень нужно возвести число в степень 0.5
@@ -313,6 +348,8 @@ print(int(100**0.5))
 print("hello world".upper())
 ```
 ### Результат.
+
+![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task10.png)
 
 ### Выводы
 
