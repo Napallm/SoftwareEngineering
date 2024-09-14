@@ -53,7 +53,7 @@ print(3 + 2.5 + 5 + 5.5)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task2.png)
+![Меню](images/lab2-task2.png)
 
 ### Выводы
 
@@ -76,7 +76,7 @@ print(one + two)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task3.png)
+![Меню](images/lab2-task3.png)
 
 ### Выводы
 
@@ -99,7 +99,7 @@ print(str(c))
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task4.png)
+![Меню](images/lab2-task4.png)
 
 ### Выводы
 1. `print(bool(a))` выводим целочисленную переменную переведя ее в булевый тип
@@ -118,7 +118,7 @@ print(a, b, c)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task5.png)
+![Меню](images/lab2-task5.png)
 
 ### Выводы
 
@@ -137,7 +137,7 @@ print(a % b)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task6.png)
+![Меню](images/lab2-task6.png)
 
 ### Выводы
 
@@ -155,7 +155,7 @@ print(s * 6)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task7.png)
+![Меню](images/lab2-task7.png)
 
 ### Выводы
 
@@ -170,7 +170,7 @@ print(s.count("o"))
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task8.png)
+![Меню](images/lab2-task8.png)
 
 ### Выводы
 
@@ -184,7 +184,7 @@ print("Hello\nworld")
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task9.png)
+![Меню](images/lab2-task9.png)
 
 ### Выводы
 
@@ -200,7 +200,7 @@ print(s[:5])
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/lab2-task10.png)
+![Меню](images/lab2-task10.png)
 
 ### Выводы
 
@@ -216,7 +216,7 @@ print(bool(n))
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task1.png)
+![Меню](images/sam2-task1.png)
 
 ### Выводы
 
@@ -231,7 +231,7 @@ print(a, b, c)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task2.png)
+![Меню](images/sam2-task2.png)
 
 ### Выводы
 
@@ -246,7 +246,7 @@ print(i)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task3.png)
+![Меню](images/sam2-task3.png)
 
 ### Выводы
 
@@ -261,7 +261,7 @@ print(s * 16)
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task4.png)
+![Меню](images/sam2-task4.png)
 
 ### Выводы
 
@@ -278,7 +278,7 @@ print(f"Сегодня {day} {month} {year} ", end="Всего хорошего!
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task5.png)
+![Меню](images/sam2-task5.png)
 
 ### Выводы
 
@@ -293,7 +293,7 @@ print(s[:5] + " my " + s[-5:])
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task6.png)
+![Меню](images/sam2-task6.png)
 
 ### Выводы
 
@@ -307,7 +307,7 @@ print(len("Hello world"))
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task7.png)
+![Меню](images/sam2-task7.png)
 
 ### Выводы
 
@@ -321,7 +321,7 @@ print("HELLO WORLD".lower())
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task8.png)
+![Меню](images/sam2-task8.png)
 
 ### Выводы
 
@@ -335,7 +335,7 @@ print(int(100**0.5))
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task9.png)
+![Меню](images/sam2-task9.png)
 
 ### Выводы
 
@@ -349,7 +349,7 @@ print("hello world".upper())
 ```
 ### Результат.
 
-![Меню](https://github.com/SnowyPython/SoftwareEngineering/tree/%D0%A2%D0%B5%D0%BC%D0%B0_2/images/sam2-task10.png)
+![Меню](images/sam2-task10.png)
 
 ### Выводы
 
